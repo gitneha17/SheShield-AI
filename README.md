@@ -1,18 +1,20 @@
-# SheShield AI
+# 🛡️ SheShield AI – Women's Rights & Safety Assistant
 
-An AI-powered Legal Rights Assistant for Indian Women.
+🌐 Live Demo: https://she-shield-ai.vercel.app
 
-## Features
+🔗 Backend API: https://sheshield-ai.onrender.com
 
-- 📄 Legal Document Simplifier
-- ⚖️ Women's Rights Assistant
-- 📝 Complaint Draft Generator
-- 🏛️ Government Scheme Finder
+## 🚀 Features
+- AI-powered legal guidance chatbot
+- Women's rights information
+- Government schemes information
+- Emergency support resources
+- Responsive UI
 
-## Tech Stack
-
-- React
-- FastAPI
-- IBM Granite
-- Python
-- Tailwind CSS
+## 🛠️ Tech Stack
+- React.js
+- Node.js
+- Express.js
+- Groq API
+- Vercel
+- Render
