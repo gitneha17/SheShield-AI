@@ -2,8 +2,6 @@
 
 🌐 Live Demo: https://she-shield-ai.vercel.app
 
-🔗 Backend API: https://sheshield-ai.onrender.com
-
 ## 🚀 Features
 - AI-powered legal guidance chatbot
 - Women's rights information
