@@ -8,9 +8,9 @@ function Hero() {
       <div className="text-center px-6">
 
         <h1 className="text-6xl font-extrabold text-gray-900">
-          Your AI Companion for
+            Your Trusted AI Guide 
           <span className="block text-pink-500 mt-2">
-            Women's Rights & Safety
+            for Women's Safety & Rights
           </span>
         </h1>
 
